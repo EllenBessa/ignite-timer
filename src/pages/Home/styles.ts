@@ -51,7 +51,9 @@ const BaseInput = styled.input`
   }
 `;
 
-export const TaskInput = styled(BaseInput)``;
+export const TaskInput = styled(BaseInput)`
+  flex: 1;
+`;
 
 export const MinutesAmountInput = styled(BaseInput)``;
 
