@@ -4,6 +4,7 @@
   "rules": {
     "array-callback-return": "off",
     "no-useless-constructor": "off",
+    "no-unused-vars": "off",
     "prettier/prettier": [
       "error",
       {
